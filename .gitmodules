@@ -4,3 +4,9 @@
 [submodule "project-1-seansun_zichenly"]
 	path = project-1-seansun_zichenly
 	url = https://github.com/usc-csci350-fall2023/project-1-seansun_zichenly.git
+[submodule "project-2-seansun-zichenly"]
+	path = project-2-seansun-zichenly
+	url = https://github.com/usc-csci350-fall2023/project-2-seansun_zichenly.git
+[submodule "project-2-frq-Echomo-Xinyu"]
+	path = project-2-frq-Echomo-Xinyu
+	url = https://github.com/usc-csci350-fall2023/project-2-frq-Echomo-Xinyu.git
