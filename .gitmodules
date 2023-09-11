@@ -10,3 +10,6 @@
 [submodule "project-2-frq-Echomo-Xinyu"]
 	path = project-2-frq-Echomo-Xinyu
 	url = https://github.com/usc-csci350-fall2023/project-2-frq-Echomo-Xinyu.git
+[submodule "MIT-xv6-public"]
+	path = MIT-xv6-public
+	url = https://github.com/Echomo-Xinyu/xv6-public.git
