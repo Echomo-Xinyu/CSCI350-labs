@@ -1,9 +1,6 @@
 [submodule "cs350-docker"]
 	path = cs350-docker
 	url = https://github.com/camerondurham/cs350-docker.git
-[submodule "project-1-seansun_zichenly"]
-	path = project-1-seansun_zichenly
-	url = https://github.com/usc-csci350-fall2023/project-1-seansun_zichenly.git
 [submodule "project-2-seansun_zichenly"]
 	path = project-2-seansun_zichenly
 	url = https://github.com/usc-csci350-fall2023/project-2-seansun_zichenly
